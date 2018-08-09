@@ -1,0 +1,12 @@
+https://forum.freecodecamp.org/t/passing-by-reference-copying-in-js/175878
+
+https://forum.freecodecamp.org/t/how-to-pass-a-compound-value-by-value-copy-ydkjs-types-and-grammar/168158
+
+https://forum.freecodecamp.org/t/2-references-pointing-at-the-same-value/166029
+
+https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language  
+// see answer that has 49 upvotes but remember that do not use "pointer" when describing js. js does not have 
+//pointers 
+
+
+
